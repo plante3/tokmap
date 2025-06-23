@@ -17,4 +17,5 @@ See the [visualtoks](https://ctan.org/pkg/visualtoks) package for an example app
 
 Copyright (C) 2025 plante
 Version 1.0
+
 This package is released under the LaTeX Project Public License (LPPL) 1.3c.
